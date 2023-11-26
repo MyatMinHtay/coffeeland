@@ -35,6 +35,7 @@
 body{
     width: 100%;
     font-family: neuton;
+    background-color: #ccc;
     /* background: var(--back-color); */
 }
 
